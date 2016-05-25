@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "mg:blocks/StrawBerry_stage_0"
+    }
+}

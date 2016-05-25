@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mg",
+  "name": "More Resources Mod",
+  "description": "MrMinecraftWizz1's first mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mrminecraftwizz1"],
+  "credits": "MrMinecraftWizz1",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "mg:blocks/Lettuce_stage_3"
+    }
+}

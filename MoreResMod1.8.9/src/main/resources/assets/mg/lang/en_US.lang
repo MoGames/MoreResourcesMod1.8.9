@@ -1,0 +1,81 @@
+
+item.PitaBread.name=Pita Bread
+item.StrawberryFood.name=StrawBerry
+item.StrawBerrySeeds.name=StrawBerry Seeds
+
+tile.copperOre.name=Copper Ore
+tile.RubyOre.name=Ruby Ore
+tile.SapphireOre.name=Sapphire Ore
+tile.NickelOre.name=Nickel Ore
+tile.TitaniumOre.name=Titanium Ore 
+tile.PeridotOre.name=Peridot Ore
+tile.CookedBeefStone.name=CookedBeef Stone
+tile.RawPorkStone.name=RawPork Stone
+tile.PlutoniumOre.name=Plutonium Ore
+tile.EnergonOre.name=Energon Ore
+tile.AmyethystOre.name=Amyethyst Ore
+
+tile.RedDiamondOre.name=Red Diamond Ore
+tile.YellowDiamondOre.name=Yellow Diamond Ore
+tile.GreenDiamondOre.name=Green Diamond Ore
+
+tile.BlockCopper.name=Copper Block
+tile.BlockRuby.name=Ruby Block
+tile.BlockSapphire.name=Sapphire Block
+tile.BlockNickel.name=Nickel Block
+
+item.copperIngot.name=Copper Ingot
+item.Ruby.name= Ruby
+item.Sapphire.name=Sapphire
+item.NickelIngot.name=Nickel Ingot
+item.TitaniumIngot.name=Titanium Ingot
+item.Peridot.name=Peridot
+item.PlutoniumIngot.name=Plutonium Ingot
+item.Energon.name=Energon
+item.Amyethyst.name=Amyethyst
+
+
+item.RedDiamond.name=Red Diamond
+iten.YellowDiamond.name=Yellow Diamond
+item.GreenDiamond.name=Green Diamond
+iten.Peridot.name=Peridot
+
+item.RubyHelmet.name=Ruby Helmet
+item.RubyChestplate.name= Ruby Chestplate
+item.RubyLeggings.name=Ruby Leggings
+item.RubyBoots.name=Ruby Boots
+item.EmeraldHelmet.name=Emerald Helmet
+item.EmeraldChestplate.name= Emerald Chestplate
+item.EmeraldLeggings.name=Emerald Leggings
+item.EmeraldBoots.name=Emerald Boots
+
+item.RubySword.name=Ruby Sword
+item.RubyHoe.name= Ruby Hoe
+item.RubyAxe.name=Ruby Axe
+item.RubyPickaxe.name=Ruby Pickaxe
+item.RubySpade.name=Ruby Spade
+
+item.SapphireSword.name= Sapphire Sword
+item.SapphireHoe.name= Sapphire Hoe
+item.SapphireAxe.name=Sapphire Axe
+item.SapphirePickaxe.name=Sapphire Pickaxe
+item.SapphireSpade.name=Sapphire Spade
+
+item.EmeraldSword.name=Emerald Sword
+item.EmeraldHoe.name= Emerald Hoe
+item.EmeraldAxe.name=Emerald Axe
+item.EmeraldPickaxe.name=Emerald Pickaxe
+item.EmeraldSpade.name=Emerald Spade
+
+
+
+itemGroup.mgCreativeTab=MoGames Items And Blocks
+itemGroup.mgTools=MoGames Tools And Weapons
+itemGroup.mgArmor=MoGames Armor
+itemGroup.mgFood=MoGames Food and Crops
+
+
+item.ChickenShit.name=Chicken Poop
+item.TreePitch.name=Tree Pitch
+item.PitchHarvester.name=Pitch Harvester
+item.ShaleMattock.name=Shale Mattock

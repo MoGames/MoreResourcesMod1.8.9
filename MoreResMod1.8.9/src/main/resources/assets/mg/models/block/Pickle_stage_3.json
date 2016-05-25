@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "mg:blocks/Pickle_stage_3"
+    }
+}
